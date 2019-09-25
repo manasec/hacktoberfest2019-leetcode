@@ -3,6 +3,7 @@ This repository is a collection of all the [LeetCode](http://leetcode.com) probl
 
 ## Contributions:
 * Add the solution Code file in the respective Programming language Folder, and don't forget to add your name in the contributors.md file along with your bio.
-* You can also contribute in improving a Particular solution (optimizing it).
-* Adding comments.
-* Making changes in this documentation.
+* File naming example - for Solution number 1 - Solution#1.fileExtension
+* Please make sure to add the Problem Description in comments above the Code.
+* You can also contribute in improving a Particular solution (optimizing it), or Adding comments in others code wherever needed.
+* Making changes in this Readme file.
