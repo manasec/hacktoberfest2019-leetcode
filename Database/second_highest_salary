@@ -1,0 +1,4 @@
+below is the code for the second highest salary from an employee table
+
+
+select max(salary) as SecondHighestSalary from employee where salary <> (select max(salary) from employee);
