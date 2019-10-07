@@ -1,6 +1,6 @@
-**Your Name** --> "An Inline Bio" --> [Username](Your Github Profile Url)
+**Artur Polo Norte** --> "An Inline Bio" --> [Artur](Your Github Profile Url)
 
-**João Mendes** --> "" --> [joaomendesln](https://github.com/joaomendesln)
+**Artur  Polo Norte** --> "" --> [arturhvcpn](https://github.com/arturhvcpn)
 
-**Dhruvajit Ghosh** --> ECE engineering student at Manipal Institute of Technology. Interested in image processing. [Dhruvajit](https://github.com/Dhruvajit)
+**BIO** --> "Estudante de Engenharia, aprendendo na base da persistência "
 
