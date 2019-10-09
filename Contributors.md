@@ -4,3 +4,4 @@
 
 **Dhruvajit Ghosh** --> ECE engineering student at Manipal Institute of Technology. Interested in image processing. [Dhruvajit](https://github.com/Dhruvajit)
 
+**Rakesh Parihar** --> "" --> [rakesh-parihar](https://github.com/rakesh-parihar)
