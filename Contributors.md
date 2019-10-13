@@ -1,8 +1,6 @@
 **Artur Polo Norte** --> "An Inline Bio" --> [Artur](Your Github Profile Url)
 
-**Artur  Polo Norte** --> "" --> [arturhvcpn](https://github.com/arturhvcpn)
-
-**BIO** --> "Estudante de Engenharia, aprendendo na base da persistência "
+**Artur  Polo Norte** --> "Estudante de Engenharia, aprendendo na base da persistência " --> [arturhvcpn](https://github.com/arturhvcpn)
 
 **Rakesh Parihar** --> "" --> [rakesh-parihar](https://github.com/rakesh-parihar)
 
