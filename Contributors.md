@@ -10,3 +10,4 @@
 
 **Rishvanth Katragadda** --> CSE engineering student at SRM University AP. [punisher03](https://github.com/punisher03)
 
+** Sai Krishna Rohith K.** --> "Computer science & Engineering Undergrad. Pythonista, AI Enthusiast, Tech Savvy." --> [rkat7](https://github.com/rkat7)
