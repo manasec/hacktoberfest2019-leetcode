@@ -1,0 +1,5 @@
+puts"/__|"
+puts"  /|"
+puts" / |"
+puts"/  |"
+puts"/   |"
