@@ -1,1 +1,0 @@
-print('Solution#1 // this enough')

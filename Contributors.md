@@ -1,6 +1,10 @@
-**Artur Polo Norte** --> "An Inline Bio" --> [Artur](Your Github Profile Url)
+**Name** --> "An Inline Bio" --> [Artur](Your Github Profile Url)
 
 **Artur  Polo Norte** --> "Estudante de Engenharia, aprendendo na base da persistência " --> [arturhvcpn](https://github.com/arturhvcpn)
+
+**João Marcos** --> ":D" --> [marcospb19](https://github.com/marcospb19)
+
+**João Mendes** --> "" --> [joaomendesln](https://github.com/joaomendesln)
 
 **Rakesh Parihar** --> "" --> [rakesh-parihar](https://github.com/rakesh-parihar)
 
@@ -10,4 +14,4 @@
 
 **Rishvanth Katragadda** --> CSE engineering student at SRM University AP. [punisher03](https://github.com/punisher03)
 
-** Sai Krishna Rohith K.** --> "Computer science & Engineering Undergrad. Pythonista, AI Enthusiast, Tech Savvy." --> [rkat7](https://github.com/rkat7)
+**Sai Krishna Rohith K.** --> "Computer science & Engineering Undergrad. Pythonista, AI Enthusiast, Tech Savvy." --> [rkat7](https://github.com/rkat7)
