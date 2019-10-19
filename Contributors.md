@@ -1,4 +1,4 @@
-**Name** --> "An Inline Bio" --> [Artur](Your Github Profile Url)
+**Name** --> "An Inline Bio" --> [Github Username](Your Github Profile Url)
 
 **Artur  Polo Norte** --> "Estudante de Engenharia, aprendendo na base da persistência " --> [arturhvcpn](https://github.com/arturhvcpn)
 
