@@ -4,8 +4,6 @@
 
 **João Marcos** --> ":D" --> [marcospb19](https://github.com/marcospb19)
 
-**João Marcos** --> ":D" --> [marcospb19](https://github.com/marcospb19)
-
 **João Mendes** --> "" --> [joaomendesln](https://github.com/joaomendesln)
 
 **Rakesh Parihar** --> "" --> [rakesh-parihar](https://github.com/rakesh-parihar)
