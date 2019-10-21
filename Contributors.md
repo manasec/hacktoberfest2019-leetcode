@@ -8,6 +8,8 @@
 
 **Rakesh Parihar** --> "" --> [rakesh-parihar](https://github.com/rakesh-parihar)
 
+**Abhishek Sharma** --> "" --> [abhishhh1](https://github.com/abhishhh1)
+
 **Rakshita Varadarajan** --> IT engineering student at National Institute of India, Karnataka. [rak108](https://github.com/rak108)
 
 **Vivek Tiwari** --> A CS undergrad. Currently learning Python & R and expanding skillset in data science & ML. --> [arimanyus](https://github.com/arimanyus)
