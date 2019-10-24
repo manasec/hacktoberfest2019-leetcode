@@ -1,4 +1,4 @@
-**Name** --> "An Inline Bio" --> [Github Username](Your Github Profile Url)
+**Amrita Kumari** --> "Learning to learn:)" --> [amfehrur](https://github.com/amfehrur)
 
 **Artur  Polo Norte** --> "Estudante de Engenharia, aprendendo na base da persistência " --> [arturhvcpn](https://github.com/arturhvcpn)
 
