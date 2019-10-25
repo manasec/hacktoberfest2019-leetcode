@@ -1,3 +1,6 @@
+**Name** --> "An inline bio" --> [Github Username](githubProfileUrl)
+'Edit below this line and Do not remove any existing lines from the file'
+
 **Amrita Kumari** --> "Learning to learn:)" --> [amfehrur](https://github.com/amfehrur)
 
 **Artur  Polo Norte** --> "Estudante de Engenharia, aprendendo na base da persistência " --> [arturhvcpn](https://github.com/arturhvcpn)
