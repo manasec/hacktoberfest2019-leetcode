@@ -1,0 +1,3 @@
+SELECT name, section FROM tbl
+GROUP BY name, section
+HAVING COUNT(*) > 1
