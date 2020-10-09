@@ -22,3 +22,5 @@
 **Sai Krishna Rohith K.** --> "Computer science & Engineering Undergrad. Pythonista, AI Enthusiast, Tech Savvy." --> [rkat7](https://github.com/rkat7)
 
 **Hemish Veeraboina** --> "CSE Undergrad from Hyderabad, And in love with python." --> [hemishv111](https://github.com/hemishv111)
+
+**Caitlin Genna** --> "CS Computer Science Graduate, Fordham University." --> [caitlingenna](https://github.com/caitlingenna)
