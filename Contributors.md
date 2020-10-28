@@ -27,3 +27,5 @@
 
 **Pragati Joshi** --> "CSE Undergrad from Odisha, Interested in competitive programming" --> [PragatiJ55](https://github.com/PragatiJ55)
 
+**Caitlin Genna** --> "CS Computer Science Graduate, Fordham University." --> [caitlingenna](https://github.com/caitlingenna)
+
