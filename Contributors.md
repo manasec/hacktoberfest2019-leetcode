@@ -23,4 +23,7 @@
 
 **Hemish Veeraboina** --> "CSE Undergrad from Hyderabad, And in love with python." --> [hemishv111](https://github.com/hemishv111)
 
+**Aditi Aggarwal** --> "Java developer SWE2 at Intuit" --> [aditi2205](https://github.com/aditi2205)
+
 **Pragati Joshi** --> "CSE Undergrad from Odisha, Interested in competitive programming" --> [PragatiJ55](https://github.com/PragatiJ55)
+
