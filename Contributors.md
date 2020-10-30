@@ -29,3 +29,5 @@
 
 **Caitlin Genna** --> "CS Computer Science Graduate, Fordham University." --> [caitlingenna](https://github.com/caitlingenna)
 
+**Utkarsh Nigam** --> "Learner | C.S undergrad" --> [utkarsh-7](https://github.com/utkarsh-7)
+
