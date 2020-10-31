@@ -29,3 +29,5 @@
 
 **Caitlin Genna** --> "CS Computer Science Graduate, Fordham University." --> [caitlingenna](https://github.com/caitlingenna)
 
+**Simone Corbo** --> "Physics student from Italy, Sapienza University" --> [simonecorbo99](https:://github.com/simonecorbo99)
+
