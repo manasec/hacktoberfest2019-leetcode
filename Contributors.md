@@ -29,3 +29,6 @@
 
 **Caitlin Genna** --> "CS Computer Science Graduate, Fordham University." --> [caitlingenna](https://github.com/caitlingenna)
 
+**Snigdha Sharma** --> "B. Tech, CSE from MNNIT Allahabad" --> [Snigdha-Sharma](https://github.com/Snigdha-Sharma)
+
+
